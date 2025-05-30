@@ -1,4 +1,4 @@
 function myFunction() {
-  let message = "Hello from JavaScript!";
+  let message = "Vist URDN.com!";
   document.getElementById("js-output").innerHTML = message;
 }
